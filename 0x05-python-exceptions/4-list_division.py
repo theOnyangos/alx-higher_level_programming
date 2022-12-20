@@ -1,7 +1,5 @@
 #!/usr/bin/python3
 # 4-list_division.py
-# Brennan D Baraban <375@holbertonschool.com>
-
 
 def list_division(my_list_1, my_list_2, list_length):
     """Divides two lists element by element.
